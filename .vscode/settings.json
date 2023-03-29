@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/linux",
+    "dart.addSdkToTerminalPath": false,
+    "dart.checkForSdkUpdates": false,
+    "dart.sdkPath": "C:\\flutter\\bin\\cache\\dart-sdk"
+}
